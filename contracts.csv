@@ -1,0 +1,5 @@
+Customer ID,Customer,Contract Type,Start Date,End Date,Contract Value,Amount Invoiced
+CUST-101,Apex Retail Group,Annual SaaS,2026-01-01,2026-12-31,120000.0,120000.0
+CUST-102,Northbridge Health,Annual SaaS,2026-02-01,2027-01-31,96000.0,48000.0
+CUST-103,Evergreen Foods,Implementation,2026-01-15,2026-04-14,36000.0,36000.0
+CUST-104,MetroFleet Logistics,Annual SaaS,2025-10-01,2026-09-30,144000.0,144000.0
