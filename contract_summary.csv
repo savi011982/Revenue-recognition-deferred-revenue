@@ -1,0 +1,5 @@
+Customer ID,Customer,Contract Value,Revenue_Recognized,Deferred_Revenue,Check
+CUST-101,Apex Retail Group,120000.0,60000.0,60000.0,0.0
+CUST-102,Northbridge Health,96000.0,40000.0,56000.0,0.0
+CUST-103,Evergreen Foods,36000.0,48000.0,-12000.0,0.0
+CUST-104,MetroFleet Logistics,144000.0,72000.0,72000.0,0.0
